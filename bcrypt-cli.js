@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 /* eslint-disable no-unused-expressions, global-require, no-console */
 require('yargs')
   .command({

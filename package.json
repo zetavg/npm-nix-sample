@@ -1,10 +1,10 @@
 {
-  "name": "npm-test",
+  "name": "npm-nix-sample",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "bin": {
-    "bcrypt-sample-cli": "./cli.js"
+    "sample-bcrypt-cli": "./bcrypt-cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
