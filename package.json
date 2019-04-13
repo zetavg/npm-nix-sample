@@ -1,5 +1,5 @@
 {
-  "name": "npm-nix-sample",
+  "name": "npm-nix-sample-01",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,9 @@
   },
   "author": "",
   "license": "ISC",
+  "files": [
+    "/bcrypt-cli.js"
+  ],
   "dependencies": {
     "bcrypt": "^3.0.5",
     "yargs": "^13.2.2"
